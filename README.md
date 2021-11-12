@@ -1,0 +1,3 @@
+- Olá, eu sou @rodrigo-ewald.
+- Os meus interesses são programação e aviação🛫🛬,
+- Atualmente estou estudando Java (EE, FX, Spring Boot / Hibernate) e Php (Slim framework, RainTpl).
